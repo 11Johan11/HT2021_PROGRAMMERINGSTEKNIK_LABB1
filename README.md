@@ -15,9 +15,6 @@ Laborationen inkluderade följande spel:
 - **Funktionsuppdelning**: Varje spel implementerades som en separat funktion för att upprätthålla kodens modularitet och tydlighet.
 - **Felhantering**: Inmatningskontroller för att säkerställa att användaren anger giltiga val.
 
-## Rapport
-En kort dokumentation som beskriver uppdelningen av programmet i funktioner och motiverar designvalen bifogades. Den innehöll även reflektioner kring hur konstruktioner som moduler, arrayer och pekare skulle kunna ha påverkat design och implementering.
-
 ## Bedömning
 För att bli godkänd i denna laboration krävdes det att programmet var komplett, välutformat och välkodat. Detta inkluderade att bryta ner koden i funktioner, använda lämpliga kontrollstrukturer, välja adekvata datatyper och namnge funktioner och variabler i enlighet med principerna presenterade i kursboken.
 
